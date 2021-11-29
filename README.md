@@ -3,12 +3,14 @@
 Full Project Link:
 https://drive.google.com/drive/folders/1TXiaFb3Lr1Od1yotFLbLhG86oHygcVax?usp=sharing
 
+## Training
 Access Training Data Set (DIV2K + FLICKR2K):
 https://drive.google.com/drive/folders/1Q2ispwAUxX0SzVALMQxDo2ToYUJ5o2K5?usp=sharing
 
 Access Downsampled Images:
 https://drive.google.com/drive/folders/1diRe-i6AfhbBJEiUOXWTOae6m2xwhGBz?usp=sharing
 
+## Test
 Acceess Test Data (Original):
 https://drive.google.com/drive/folders/1Lr1OSkHlplU5r12EqNPqWxwtrJjvWgIB?usp=sharing
 
